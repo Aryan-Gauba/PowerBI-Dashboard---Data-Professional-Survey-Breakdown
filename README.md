@@ -1,1 +1,4 @@
-![Power BI Dashboard Demo](Data Professional Survey Breakdown Video.gif)
+
+<p align="center">
+  <img src="Data Professional Survey Breakdown Video.gif" alt="Power BI Dashboard Demo" width="800"/>
+</p>
