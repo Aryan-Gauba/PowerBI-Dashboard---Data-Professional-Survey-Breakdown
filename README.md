@@ -1,1 +1,1 @@
-![Power BI Dashboard Demo](assets/dashboard-demo.gif)
+![Power BI Dashboard Demo](Data Professional Survey Breakdown Video.gif)
